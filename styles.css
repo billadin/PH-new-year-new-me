@@ -19,11 +19,12 @@
 
 header {
     height: 750px;
-    width: 100%;
-    background-color: aquamarine;
+    width: 100vw;
     background: url("images/banner/banner1.png");
-    background-color:lightgray;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
 
